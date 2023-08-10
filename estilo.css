@@ -1,0 +1,43 @@
+body {
+    background-color: lightcoral;
+}
+
+h1 {
+    color:bisque;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: whitesmoke;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif ;
+}
+img{width:200px;
+    height:200px;
+    border-color: brown;
+    border-radius:  20px;
+}
+.contexto{color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.box{color:brown;
+font-style: oblique;}
+.datos{color: brown;}
+.bo{ color:brown;}    
+.contacto {
+    color: black
+}
+#EducacionE{color: brown;}
+#perfiles{
+     color: brown;
+font-style:oblique;}
+#subtit{ color:darkred}
+#subtit2{color:darkred}
+#formulario{ color: darkred;
+font-style:italic;}
+
+button{color: aqua;
+background-color: black;
+font-style: unset;
+border-radius: 50px;}
